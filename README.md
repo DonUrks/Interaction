@@ -1,6 +1,9 @@
 # Interaction for Unity
 A Unity3D package for triggering and handling interactions in player range.
 
+## Example
+![Example](/docs/example.gif)
+
 ## Features
 - Trigger interactions from your code
 - Trigger duration
