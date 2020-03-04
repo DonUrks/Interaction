@@ -10,7 +10,7 @@ A Unity3D package for triggering and handling interactions in player range.
 - Sample scene with player, door and pickupable
 
 ## Install
-Download and install the Unity package file or copy the Plugins directory from this repository to your project.
+Download and copy the Plugins directory from this repository to your project.
 
 ## Sample
 Open the Interaction/Sample/SampleScene and press play.
