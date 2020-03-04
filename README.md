@@ -7,7 +7,7 @@ A Unity3D package for triggering and handling interactions in player range.
 ## Features
 - Trigger interactions from your code
 - Trigger duration
-- Raycast interaction range check ("is the door in front of the player?"
+- Raycast interaction range check ("is the door in front of the player?")
 - Messages to your components on events like "InteractionComplete"
 - UI Component for showing interaction specific icons when in range
 - Sample scene with player, door and pickupable
