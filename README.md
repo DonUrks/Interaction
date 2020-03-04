@@ -2,7 +2,7 @@
 A Unity3D package for triggering and handling interactions in player range.
 
 ## Example
-![Example](/docs/example.gif | width=250)
+![Example]("/docs/example.gif" | width=250)
 
 ## Features
 - Trigger interactions from your code
