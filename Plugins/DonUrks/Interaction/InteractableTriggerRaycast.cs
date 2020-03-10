@@ -13,7 +13,7 @@ namespace DonUrks.Interaction
         {
             RaycastHit hitInfo;
             if (Physics.Raycast(this.interactableRayStart.position, this.interactableRayStart.forward, out hitInfo, this.interactableRayLength, interactableLayerMask))
-            {                
+            {
                 this.CurrentInteractable = hitInfo.collider.transform.GetComponent<Interactable>();
             }
             else
