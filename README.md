@@ -37,5 +37,11 @@ Open the Interaction/Sample/SampleScene and press play.
 - Use property interactableRayStart for raycast origin
 - Use property interactableRayLength for raycast length
 
+### InteractableTriggerColliderOnTrigger
+- InteractableTrigger Component for OnTriggerEnter and OnTriggerExit
+- Use collider of choice
+- Dont forget to set "Is Trigger" flag on collider
+- With layeer check
+
 ### InteractableHUD
 - Component for showing the interaction icon radial filled by remaining duration timer
